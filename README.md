@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-🦾 Robotics researcher
+🦾 Robotics Researcher
 
 Interested in Robot Learning for Manipulation and, in general, Deep Neural Nets.
